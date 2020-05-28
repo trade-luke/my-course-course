@@ -1,5 +1,5 @@
 title: My course
-description: A description created from the course creation page
+description: ①Ⅻㄨㄩ 啊阿鼾齄丂丄狚狛狜狝﨨﨩ˊˋ˙–⿻〇㐀㐁㐃㐄䶴䶵U1[]U2[]U3[]
 template:
   repo: my-course-template
   name: my-course
@@ -8,8 +8,8 @@ before:
     title: Welcome!
     body: new-issue.md
 steps:
-  - title: First step
-    description: The first step in your course
+  - title: ①Ⅻㄨㄩ 啊阿鼾齄丂丄狚狛狜狝﨨﨩ˊˋ˙–⿻〇㐀㐁㐃㐄䶴䶵U1[]U2[]U3[]
+    description: ①Ⅻㄨㄩ 啊阿鼾齄丂丄狚狛狜狝﨨﨩ˊˋ˙–⿻〇㐀㐁㐃㐄䶴䶵U1[]U2[]U3[]
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
